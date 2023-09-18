@@ -1,0 +1,33 @@
+.meme {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.meth {
+    display: flex;
+}
+.klaus {
+    margin-right: 53px;
+}
+.dank {
+    background-image: url(../img/b51876e766dcdc034dd1dffc9b9536b3_crop_exact.jpg);
+    height: 503px;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+}
+.yeah {
+    width: 128px;
+    height: 128px;
+}
+.maldonado {
+    background-color: crimson;
+}
+.yo {
+ display: flex;
+ justify-content: space-between;
+}
+.pastor {
+    height: 128px;
+    width: 128px;
+}
